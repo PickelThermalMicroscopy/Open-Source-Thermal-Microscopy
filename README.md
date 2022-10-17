@@ -1,5 +1,4 @@
-# **Open-Source-Thermal-Microscopy**
-
-
+# **Open Source Thermal Microscopy**
+What is this? 
 
 
