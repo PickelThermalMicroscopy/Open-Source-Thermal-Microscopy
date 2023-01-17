@@ -1,4 +1,5 @@
 # ***Open Source Thermal Microscopy***
+![ReadMeImage](https://user-images.githubusercontent.com/114375201/213006918-8ad4cbab-83a6-44d8-9fe7-c2e5cb051f77.jpeg)
 
 **Welcome to the Open Source Thermal Microscopy repository! This resource provides detailed
 guidance for constructing custom-built luminescence microscopes and is developed and
